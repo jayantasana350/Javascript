@@ -40,7 +40,6 @@ tipCalculator();
 // myCalculator();
 
 
-
 const myCalculator = (sum, percentage, currency, percentsign, prefix) => {
 
 let tip = sum * (percentage / 100);
